@@ -49,7 +49,7 @@
 
 <div align="center">
 
-## <kbd>Bandit Level 0</kbd>
+## Bandit Level 0
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 
 The password for the next level is stored in a file called <b>readme</b> located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
@@ -62,7 +62,7 @@ The password for the next level is stored in a file called <b>readme</b> located
 
 <div align="center">
 
-## <kbd>Bandit Level 0 → Level 1</kbd>
+## Bandit Level 0 → Level 1
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 
 The password for the next level is stored in a file called <b>-</b> located in the home directory
@@ -75,7 +75,7 @@ The password for the next level is stored in a file called <b>-</b> located in t
 #
 <div align="center">
 
-## <kbd>Bandit Level 1 → Level 2</kbd>
+## Bandit Level 1 → Level 2
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 
 The password for the next level is stored in a file called <b>spaces in this filename</b> located in the home directory
@@ -89,7 +89,7 @@ The password for the next level is stored in a file called <b>spaces in this fil
 #
 <div align="center">
 
-## <kbd>Bandit Level 2 → Level 3</kbd>
+## Bandit Level 2 → Level 3
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 
 The password for the next level is stored in a hidden file in the <b>inhere</b> directory.
@@ -102,7 +102,7 @@ The password for the next level is stored in a hidden file in the <b>inhere</b> 
 #
 <div align="center">
 
-## <kbd>Bandit Level 3 → Level 4</kbd>
+## Bandit Level 3 → Level 4
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 
 The password for the next level is stored in the only human-readable file in the <b>inhere</b> directory. Tip: if your terminal is messed up, try the “reset” command.
@@ -116,7 +116,7 @@ The password for the next level is stored in the only human-readable file in the
 
 <div align="center">
 
-## <kbd>Bandit Level 4 → Level 5</kbd>
+## Bandit Level 4 → Level 5
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 
 The password for the next level is stored in a file somewhere under the <b>inhere</b> directory and has all of the following properties: human-readable 1033 bytes in size not executable
@@ -129,7 +129,7 @@ The password for the next level is stored in a file somewhere under the <b>inher
 #
 <div align="center">
 
-## <kbd>Bandit Level 5 → Level 6</kbd>
+## Bandit Level 5 → Level 6
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 The password for the next level is stored <b>somewhere on the server</b> and has all of the following properties: owned by user bandit7 owned by group bandit6 33 bytes in size
 </text>
@@ -141,7 +141,7 @@ The password for the next level is stored <b>somewhere on the server</b> and has
 #
 <div align="center">
 
-## <kbd>Bandit Level 7 → Level 8</kbd>
+## Bandit Level 7 → Level 8
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 
 The password for the next level is stored in the file <b>data.txt</b> next to the word <b>millionth</b>
@@ -154,7 +154,7 @@ The password for the next level is stored in the file <b>data.txt</b> next to th
 #
 <div align="center">
 
-## <kbd>Bandit Level 8 → Level 9</kbd>
+## Bandit Level 8 → Level 9
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 The password for the next level is stored in the file <b>data.txt</b> and is the only line of text that occurs only once 
 </text>
@@ -167,7 +167,7 @@ The password for the next level is stored in the file <b>data.txt</b> and is the
 #
 <div align="center">
 
-## <kbd>Bandit Level 9 → Level 10</kbd>
+## Bandit Level 9 → Level 10
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 The password for the next level is stored in the file <b>data.txt</b> in one of the few human-readable strings, preceded by several ‘=’ characters. 
 </text>
@@ -179,7 +179,7 @@ The password for the next level is stored in the file <b>data.txt</b> in one of 
 #
 <div align="center">
 
-## <kbd>Bandit Level 10 → Level 11</kbd>
+## Bandit Level 10 → Level 11
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 The password for the next level is stored in the file <b>data.txt,</b> which contains base64 encoded data.
 </text>
@@ -191,7 +191,7 @@ The password for the next level is stored in the file <b>data.txt,</b> which con
 #
 <div align="center">
 
-## <kbd>Bandit Level 11 → Level 12</kbd>
+## Bandit Level 11 → Level 12
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 The password for the next level is stored in the file <b>data.txt,</b> where all lowercase (a-z) and uppercase (A-Z) letters have been rotated by 13 positions
 </text>
@@ -203,7 +203,7 @@ The password for the next level is stored in the file <b>data.txt,</b> where all
 #
 <div align="center">
 
-## <kbd>Bandit Level 12 → Level 13</kbd>
+## Bandit Level 12 → Level 13
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 The password for the next level is stored in the file data.txt, which is a hexdump of a file that has been repeatedly compressed. For this level it may be useful to create a directory under /tmp in which you can work using mkdir. For example: mkdir /tmp/myname123. Then copy the datafile using cp, and rename it using mv (read the manpages!)
 </text>
@@ -215,7 +215,7 @@ The password for the next level is stored in the file data.txt, which is a hexdu
 #
 <div align="center">
 
-## <kbd>Bandit Level 13 → Level 14</kbd>
+## Bandit Level 13 → Level 14
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 The password for the next level is stored in <b>/etc/bandit_pass/bandit14 and can only be read by user bandit14.</b> For this level, you don’t get the next password, but you get a private SSH key that can be used to log into the next level. <b>Note: localhost</b> is a hostname that refers to the machine you are working on
 </text>
@@ -227,7 +227,7 @@ The password for the next level is stored in <b>/etc/bandit_pass/bandit14 and ca
 #
 <div align="center">
 
-## <kbd>Bandit Level 14 → Level 15</kbd>
+## Bandit Level 14 → Level 15
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 The password for the next level can be retrieved by submitting the password of the current level to <b>port 30000 on localhost.</b>
 </text>
@@ -239,7 +239,7 @@ The password for the next level can be retrieved by submitting the password of t
 #
 <div align="center">
 
-## <kbd>Bandit Level 15 → Level 16</kbd>
+## Bandit Level 15 → Level 16
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 The password for the next level can be retrieved by submitting the password of the current level to <b>port 30001 on localhost</b> using SSL encryption.
 
@@ -253,7 +253,7 @@ The password for the next level can be retrieved by submitting the password of t
 #
 <div align="center">
 
-## <kbd>Bandit Level 16 → Level 17</kbd>
+## Bandit Level 16 → Level 17
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 The credentials for the next level can be retrieved by submitting the password of the current level to <b>a port on localhost in the range 31000 to 32000.</b> First find out which of these ports have a server listening on them. Then find out which of those speak SSL and which don’t. There is only 1 server that will give the next credentials, the others will simply send back to you whatever you send to it.
 </text>
@@ -265,7 +265,7 @@ The credentials for the next level can be retrieved by submitting the password o
 #
 <div align="center">
 
-## <kbd>Bandit Level 17 → Level 18</kbd>
+## Bandit Level 17 → Level 18
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 There are 2 files in the homedirectory: <b>passwords.old and passwords.new.</b> The password for the next level is in <b>passwords.new</b> and is the only line that has been changed between <b>passwords.old and passwords.new</b>
 
@@ -279,7 +279,7 @@ There are 2 files in the homedirectory: <b>passwords.old and passwords.new.</b> 
 #
 <div align="center">
 
-## <kbd>Bandit Level 18 → Level 19</kbd>
+## Bandit Level 18 → Level 19
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 The password for the next level is stored in a file <b>readme</b> in the homedirectory. Unfortunately, someone has modified <b>.bashrc</b> to log you out when you log in with SSH
 </text>
@@ -291,7 +291,7 @@ The password for the next level is stored in a file <b>readme</b> in the homedir
 #
 <div align="center">
 
-## <kbd>Bandit Level 19 → Level 20</kbd>
+## Bandit Level 19 → Level 20
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 To gain access to the next level, you should use the setuid binary in the homedirectory. Execute it without arguments to find out how to use it. The password for this level can be found in the usual place (/etc/bandit_pass), after you have used the setuid binary.
 </text>
@@ -303,7 +303,7 @@ To gain access to the next level, you should use the setuid binary in the homedi
 #
 <div align="center">
 
-## <kbd>Bandit Level 20 → Level 21</kbd>
+## Bandit Level 20 → Level 21
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 There is a setuid binary in the homedirectory that does the following: it makes a connection to localhost on the port you specify as a commandline argument. It then reads a line of text from the connection and compares it to the password in the previous level (bandit20). If the password is correct, it will transmit the password for the next level (bandit21).
 
@@ -317,7 +317,7 @@ There is a setuid binary in the homedirectory that does the following: it makes 
 #
 <div align="center">
 
-## <kbd>Bandit Level 21 → Level 22</kbd>
+## Bandit Level 21 → Level 22
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 A program is running automatically at regular intervals from <b>cron,</b> the time-based job scheduler. Look in <b>/etc/cron.d/</b> for the configuration and see what command is being executed.
 </text>
@@ -329,7 +329,7 @@ A program is running automatically at regular intervals from <b>cron,</b> the ti
 #
 <div align="center">
 
-## <kbd>Bandit Level 22 → Level 23</kbd>
+## Bandit Level 22 → Level 23
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 A program is running automatically at regular intervals from <b>cron,</b> the time-based job scheduler. Look in <b>/etc/cron.d/</b> for the configuration and see what command is being executed.
 
@@ -343,7 +343,7 @@ A program is running automatically at regular intervals from <b>cron,</b> the ti
 #
 <div align="center">
 
-## <kbd>Bandit Level 23 → Level 24</kbd>
+## Bandit Level 23 → Level 24
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 A program is running automatically at regular intervals from <b>cron,</b> the time-based job scheduler. Look in <b>/etc/cron.d/</b> for the configuration and see what command is being executed.
 
@@ -360,7 +360,7 @@ A program is running automatically at regular intervals from <b>cron,</b> the ti
 #
 <div align="center">
 
-## <kbd>Bandit Level 24 → Level 25</kbd>
+## Bandit Level 24 → Level 25
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 A daemon is listening on port 30002 and will give you the password for bandit25 if given the password for bandit24 and a secret numeric 4-digit pincode. There is no way to retrieve the pincode except by going through all of the 10000 combinations, called brute-forcing.
 </text>
@@ -405,7 +405,7 @@ PIN_HACKED()
 
 <div align="center">
 
-## <kbd>Bandit Level 25 → Level 26</kbd>
+## Bandit Level 25 → Level 26
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 Logging in to bandit26 from bandit25 should be fairly easy… The shell for user bandit26 is not <b>/bin/bash,</b> but something else. Find out what it is, how it works and how to break out of it.
 </text>
@@ -418,7 +418,7 @@ Logging in to bandit26 from bandit25 should be fairly easy… The shell for user
 
 <div align="center">
 
-## <kbd>Bandit Level 26 → Level 27</kbd>
+## Bandit Level 26 → Level 27
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 Good job getting a shell! Now hurry and grab the password for bandit27!
 </text>
@@ -431,7 +431,7 @@ Good job getting a shell! Now hurry and grab the password for bandit27!
 
 <div align="center">
 
-## <kbd>Bandit Level 27 → Level 28</kbd>
+## Bandit Level 27 → Level 28
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 There is a git repository at ssh://bandit<b>27</b>-git@localhost/home/bandit<b>27</b>-git/repo. The password for the user bandit<b>27</b>-git is the same as for the user bandit<b>27</b>.
 
@@ -447,7 +447,7 @@ Clone the repository and find the password for the next level.
 
 <div align="center">
 
-## <kbd>Bandit Level 28 → Level 29</kbd>
+## Bandit Level 28 → Level 29
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 There is a git repository at ssh://bandit<b>28</b>-git@localhost/home/bandit<b>28</b>-git/repo. The password for the user bandit<b>28</b>-git is the same as for the user bandit<b>28.</b>
 
@@ -462,7 +462,7 @@ Clone the repository and find the password for the next level.
 
 <div align="center">
 
-## <kbd>Bandit Level 29 → Level 30</kbd>
+## Bandit Level 29 → Level 30
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 There is a git repository at ssh://bandit<b>29</b>-git@localhost/home/bandit<b>29</b>-git/repo. The password for the user bandit<b>29</b>-git is the same as for the user bandit<b>29</b>.
 
@@ -477,7 +477,7 @@ Clone the repository and find the password for the next level.
 
 <div align="center">
 
-## <kbd>Bandit Level 30 → Level 31</kbd>
+## Bandit Level 30 → Level 31
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 There is a git repository at ssh://bandit<b>30</b>-git@localhost/home/bandit<b>30</b>-git/repo. The password for the user bandit<b>30</b>-git is the same as for the user bandit<b>30</b>.
 
@@ -493,7 +493,7 @@ Clone the repository and find the password for the next level.
 
 <div align="center">
 
-## <kbd>Bandit Level 31 → Level 32</kbd>
+## Bandit Level 31 → Level 32
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 There is a git repository at ssh://bandit<b>31</b>-git@localhost/home/bandit<b>31</b>-git/repo. The password for the user bandit<b>31</b>-git is the same as for the user bandit<b>31</b>.
 
@@ -508,9 +508,9 @@ Clone the repository and find the password for the next level.
 
 <div align="center">
 
-## <kbd>Bandit Level 32 → Level 33</kbd>
+## Bandit Level 32 → Level 33
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
-After all this <kbd>git</kbd> stuff its time for another escape. Good luck!
+After all this git stuff its time for another escape. Good luck!
 </text>
 
 #
@@ -522,7 +522,7 @@ After all this <kbd>git</kbd> stuff its time for another escape. Good luck!
 
 <div align="center">
 
-## <kbd>Bandit Level 33 → Level 34</kbd>
+## Bandit Level 33 → Level 34
 <text style="font-family: 'Lucida Console', 'Courier New', monospace;">
 <b>
 At this moment, level 34 does not exist yet.</b>
